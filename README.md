@@ -124,6 +124,6 @@ SOFTWARE.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:skandvj13@gmail.com)
+Name - [skandvj13@gmail.com](mailto:skandvj13@gmail.com)
 
-Project Link: [https://github.com/yourusername/hr-hiring-agent](https://github.com/skandvj/hr-hiring-agent)
+Project Link: [https://github.com/skandvj/hr-hiring-agent](https://github.com/skandvj/hr-hiring-agent)
